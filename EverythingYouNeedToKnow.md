@@ -1,0 +1,3 @@
+Can be found here...
+
+[![](http://72miles.com/images/hosted.png)](http://72miles.com/architecturerules)
